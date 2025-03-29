@@ -1,0 +1,18 @@
+# my name is readwon
+echo "hello world"
+# I printed hello world to my screen name= "read"
+Course = "bash scripting challenge year=2025
+#we created a variable name and assigned a value to it
+num1= 50
+num2- 20
+sum=$((num1 + num2 ))
+echo "The sum of num1 variable and num2 is: $sum"
+echo "current logged-in user: $USER"
+echo "Home directory: $HOME"
+echo "current working directory: $PWD"
+DIR="test_directory"
+# create the directory if it does not exist
+if [ ! -d "$DIR"]; the mkdir "$DIR" echo "Created directory: $DIR" fi
+#list all 'sh files in the directory
+echo listing all Bash scripts in $DIR:"
+is "DIR"/".sh 2>/dev/null \\ echo "No .sh flies in $DIR
