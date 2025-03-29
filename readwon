@@ -1,0 +1,11 @@
+Read
+# my name is readwon
+echo "hello world"
+# I printed hello world to my screen
+name= "read"
+Course = "bash scripting challenge year=2025
+#we created a variable name and assigned a value to it
+num1= 50
+num2- 20
+sum=$((num1 + num2 ))
+echo "The sum of num1 variable and num2 is: $sum"
